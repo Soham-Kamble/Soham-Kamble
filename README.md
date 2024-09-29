@@ -1,5 +1,5 @@
 # 💫 About Me:
-With experience in building static websites using HTML, CSS, and JavaScript, and a solid foundation in Python through Harvard’s CS50P, I’ve honed my problem-solving skills and applied them in real-world projects. I also have a basic understanding of data structures, algorithms, and experience with C and Java. I’m driven by the challenge of creating efficient, user-friendly applications, and I’m eager to continue expanding my knowledge in the tech field.
+With experience in building static websites using HTML, CSS, and JavaScript, and a solid foundation in Python through Harvard’s CS50P, I’ve honed my problem-solving skills and applied them in real-world projects. I also have a basic understanding of data structures, algorithms, and experience with C++. I’m driven by the challenge of creating efficient, user-friendly applications, and I’m eager to continue expanding my knowledge in the tech field.
 
 
 # 💻 Tech Stack:
