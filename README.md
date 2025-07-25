@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Profile views](https://visitcount.itsvg.in/api?id=Soham-Kamble&label=Profile%20Views&color=0&icon=0)
+![Visitor Badge](https://komarev.com/ghpvc/?username=Soham-Kamble&label=Profile%20views&color=blue&style=flat)
 
 Computer Engineering graduate with a solid foundation in backend development and software engineering. CS50 certified in Python and Computer Science, with hands-on experience building full-stack web applications using Django, Flask, and PostgreSQL.<br><br>Currently focused on backend development with Django and strengthening my skills in Data Structures and Algorithms. <br><br>I'm passionate about clean code, efficient systems, and solving real-world problems with backend technologies. Looking to join a forward-thinking team where I can grow as a backend developer and contribute meaningfully.<br><br>Key Skills: Python, Django, Django REST Framework, PostgreSQL, Flask, SQL, JavaScript, C, C++, REST APIs
 
