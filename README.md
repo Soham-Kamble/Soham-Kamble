@@ -1,33 +1,57 @@
-# 💫 About Me:
+# Soham Kamble
 
-Computer Engineering graduate with a solid foundation in backend development and software engineering. CS50 certified in Python and Computer Science, with hands-on experience building full-stack web applications using Django, Flask, and PostgreSQL.<br><br>Currently focused on backend development with Django and strengthening my skills in Data Structures and Algorithms. <br><br>I'm passionate about clean code, efficient systems, and solving real-world problems with backend technologies. Looking to join a forward-thinking team where I can grow as a backend developer and contribute meaningfully.<br><br>Key Skills: Python, Django, Django REST Framework, PostgreSQL, Flask, SQL, JavaScript, C, C++, REST APIs
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/soham-hero-static.svg">
+  <img src="assets/soham-hero.svg" width="880" alt="Soham Kamble · Backend Developer · Python Developer · Django Developer · Aspiring AI Engineer">
+</picture>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soham-kamble) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SohamKa59463891) 
+I build Python backends with Django, from a marketplace with payment integration to a multi-room chat app. I’m deepening my skills in data structures and algorithms and exploring how to apply AI to the software I build.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## Education & certifications
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Soham-Kamble&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Soham-Kamble&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Kamble&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **B.E. in Computer Engineering**, B R Harne College of Engineering & Technology · **CGPA 7.75/10** · July 2025
+- Ranked among the top three students across all semesters, as listed on my résumé.
+- **CS50’s Introduction to Programming with Python** and **CS50’s Introduction to Computer Science** · Harvard University via edX, 2024
+- **Django Masterclass: Build 9 Real-World Projects** · Udemy, 2025
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Soham-Kamble&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Selected projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Multi-Vendor Digital Marketplace
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Soham-Kamble&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Built a marketplace API with Django REST Framework and JWT authentication. Integrated Razorpay payments and built a seller analytics dashboard with Chart.js.
 
----
+[View repository](https://github.com/Soham-Kamble/Multi-Vendor-Digital-Marketplace)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Real-Time Chat Application
+
+Built multi-room messaging with Django Channels and WebSockets, with PostgreSQL for room and message history.
+
+[View repository](https://github.com/Soham-Kamble/Real-Time-Chat-Application)
+
+### Advanced Expense Tracker
+
+Built a Django app for logging and categorizing expenses, with Chart.js views for category breakdowns and daily spending trends.
+
+[View repository](https://github.com/Soham-Kamble/Advanced-Expense-Tracker)
+
+## Skills
+
+- **Backend** · Python, Django, Django REST Framework, Django Channels, REST APIs, WebSockets, JWT
+- **Data** · SQL, PostgreSQL, SQLite
+- **Frontend** · JavaScript, HTML5, CSS3, Tailwind CSS, Chart.js
+- **Tools & deployment** · Git, GitHub, Postman, Render
+
+## GitHub contributions
+
+[![Heatmap of Soham Kamble’s public GitHub contribution activity by day. Dark wine shows no contributions and lighter rose shows higher activity.](assets/soham-contributions.svg)](https://github.com/Soham-Kamble?tab=overview)
+
+Public GitHub contribution snapshot · 16 Nov 2025 to 20 Nov 2026. [View the live calendar](https://github.com/Soham-Kamble?tab=overview).
+
+## Profiles
+
+[GitHub](https://github.com/Soham-Kamble) · [LeetCode](https://leetcode.com/u/SohamKamble/) · [LinkedIn](https://www.linkedin.com/in/soham-kamble/)
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/soham-footer-static.svg">
+  <img src="assets/soham-footer.svg" width="880" alt="">
+</picture>
