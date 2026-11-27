@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/soham-hero-static.svg">
-  <img src="assets/soham-hero.svg" width="880" alt="Soham Kamble — Python and Django backend developer exploring AI engineering">
+  <img src="assets/soham-hero.svg" width="880" alt="Soham Kamble | Software Engineer | Python, Django and Backend Developer | Exploring AI Engineering">
 </picture>
 
 <br>
