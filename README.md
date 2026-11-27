@@ -1,57 +1,164 @@
-# Soham Kamble
+<div align="center">
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/soham-hero-static.svg">
-  <img src="assets/soham-hero.svg" width="880" alt="Soham Kamble · Backend Developer · Python Developer · Django Developer · Aspiring AI Engineer">
+  <img src="assets/soham-hero.svg" width="880" alt="Soham Kamble — Python and Django backend developer exploring AI engineering">
 </picture>
 
-I build Python backends with Django, from a marketplace with payment integration to a multi-room chat app. I’m deepening my skills in data structures and algorithms and exploring how to apply AI to the software I build.
+<br>
 
-## Education & certifications
+### I turn ideas into working software — from APIs and payments to real-time experiences.
 
-- **B.E. in Computer Engineering**, B R Harne College of Engineering & Technology · **CGPA 7.75/10** · July 2025
-- Ranked among the top three students across all semesters, as listed on my résumé.
-- **CS50’s Introduction to Programming with Python** and **CS50’s Introduction to Computer Science** · Harvard University via edX, 2024
-- **Django Masterclass: Build 9 Real-World Projects** · Udemy, 2025
+**Python & Django Developer** · **Backend Engineering** · **Exploring AI**
 
-## Selected projects
+<p>
+  <a href="https://github.com/Soham-Kamble?tab=repositories"><img alt="Explore my projects" src="https://img.shields.io/badge/Explore_my_projects-18181B?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/soham-kamble/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/SohamKamble/"><img alt="LeetCode profile" src="https://img.shields.io/badge/Problem_solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=111111"></a>
+</p>
 
-### Multi-Vendor Digital Marketplace
+<sub>Clean architecture. Useful products. Constant improvement.</sub>
 
-Built a marketplace API with Django REST Framework and JWT authentication. Integrated Razorpay payments and built a seller analytics dashboard with Chart.js.
+</div>
 
-[View repository](https://github.com/Soham-Kamble/Multi-Vendor-Digital-Marketplace)
+---
 
-### Real-Time Chat Application
+## 👋 A little about me
 
-Built multi-room messaging with Django Channels and WebSockets, with PostgreSQL for room and message history.
+I'm **Soham**, a Computer Engineering graduate who enjoys building the systems that make products work.
 
-[View repository](https://github.com/Soham-Kamble/Real-Time-Chat-Application)
+I work primarily with **Python, Django, and Django REST Framework**. I have built a multi-vendor marketplace with payment processing, a multi-room chat application, and an expense tracker with interactive analytics. Alongside backend development, I'm strengthening my **data structures and algorithms** fundamentals and learning how to bring **AI** into practical applications.
 
-### Advanced Expense Tracker
+> My favorite kind of project is one where there's a real problem to solve, an interesting system to design, and something useful to ship.
 
-Built a Django app for logging and categorizing expenses, with Chart.js views for category breakdowns and daily spending trends.
+## ✦ Featured work
 
-[View repository](https://github.com/Soham-Kamble/Advanced-Expense-Tracker)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Skills
+### 🛍️ Multi-Vendor Digital Marketplace
 
-- **Backend** · Python, Django, Django REST Framework, Django Channels, REST APIs, WebSockets, JWT
-- **Data** · SQL, PostgreSQL, SQLite
-- **Frontend** · JavaScript, HTML5, CSS3, Tailwind CSS, Chart.js
-- **Tools & deployment** · Git, GitHub, Postman, Render
+**Commerce, payments & APIs**
 
-## GitHub contributions
+A digital-product marketplace with JWT-protected endpoints, buyer and seller workflows, **Razorpay payments**, and a sales dashboard.
 
-[![Heatmap of Soham Kamble’s public GitHub contribution activity by day. Dark wine shows no contributions and lighter rose shows higher activity.](assets/soham-contributions.svg)](https://github.com/Soham-Kamble?tab=overview)
+`Django` `DRF` `PostgreSQL` `Razorpay` `Chart.js`
 
-Public GitHub contribution snapshot · 16 Nov 2025 to 20 Nov 2026. [View the live calendar](https://github.com/Soham-Kamble?tab=overview).
+**[Explore code →](https://github.com/Soham-Kamble/Multi-Vendor-Digital-Marketplace)** · **[Live demo ↗](https://multi-vendor-digital-marketplace.onrender.com)**
 
-## Profiles
+</td>
+<td width="50%" valign="top">
 
-[GitHub](https://github.com/Soham-Kamble) · [LeetCode](https://leetcode.com/u/SohamKamble/) · [LinkedIn](https://www.linkedin.com/in/soham-kamble/)
+### 💬 Real-Time Chat Application
+
+**Multi-room messaging**
+
+A Django chat experience with authentication, chat rooms, a responsive interface, and an ASGI-based setup for real-time communication.
+
+`Python` `Django` `Django Channels` `WebSockets` `Tailwind CSS`
+
+**[Explore code →](https://github.com/Soham-Kamble/Real-Time-Chat-Application)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Advanced Expense Tracker
+
+**Personal finance & visualization**
+
+Track expenses, organize spending by category, and visualize patterns through interactive charts and date-range summaries.
+
+`Django` `SQLite` `Tailwind CSS` `Chart.js`
+
+**[Explore code →](https://github.com/Soham-Kamble/Advanced-Expense-Tracker)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 What I'm exploring next
+
+**The intersection of software & intelligence**
+
+Sharpening DSA and problem-solving skills while exploring how AI can enhance useful, dependable software.
+
+**Currently focused on:** Python fundamentals, backend engineering, algorithms, and applied AI.
+
+**[Follow my progress →](https://github.com/Soham-Kamble?tab=repositories)**
+
+</td>
+</tr>
+</table>
+
+## ⚙️ My toolkit
+
+<div align="center">
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite&theme=dark" alt="Python, Django, PostgreSQL, SQLite">
+
+`Django REST Framework` · `Django Channels` · `REST APIs` · `WebSockets` · `JWT`
+
+**Frontend & data visualization**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,tailwind&theme=dark" alt="JavaScript, HTML, CSS, Tailwind CSS">
+
+`Chart.js`
+
+**Workflow & deployment**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark" alt="Git, GitHub, Postman">
+
+`Render` · `SQL`
+
+</div>
+
+## 📈 The work behind the work
+
+<div align="center">
+
+<a href="https://github.com/Soham-Kamble?tab=overview">
+  <img width="880" src="assets/soham-contributions.svg" alt="Snapshot of Soham's public GitHub contributions from November 2025 through November 2026">
+</a>
+
+<sub>Contribution snapshot: 16 Nov 2025 – 20 Nov 2026 · <a href="https://github.com/Soham-Kamble?tab=overview">See my live GitHub activity</a></sub>
+
+</div>
+
+## 🎓 Beyond the code
+
+- **B.E. in Computer Engineering** — B R Harne College of Engineering & Technology · **7.75/10 CGPA** · 2025
+- **Harvard CS50 via edX** — Introduction to Computer Science & Introduction to Programming with Python · 2024
+- **Django Masterclass** — Build 9 Real-World Projects · Udemy · 2025
+
+<details>
+<summary><b>More about my learning journey</b></summary>
+<br>
+
+During my degree, I ranked among the top three students across semesters, as noted on my résumé. I continue learning through building projects, studying computer science fundamentals, and experimenting with new ideas.
+
+</details>
+
+---
+
+<div align="center">
+
+### Have an interesting idea or opportunity?
+
+I'm always happy to connect with people building thoughtful software.
+
+**[LinkedIn](https://www.linkedin.com/in/soham-kamble/)** · **[GitHub](https://github.com/Soham-Kamble)** · **[LeetCode](https://leetcode.com/u/SohamKamble/)**
+
+<br>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/soham-footer-static.svg">
   <img src="assets/soham-footer.svg" width="880" alt="">
 </picture>
+
+<sub>Built with curiosity, Python, and a commitment to getting better.</sub>
+
+</div>
