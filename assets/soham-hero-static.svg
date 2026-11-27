@@ -1,61 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="372" viewBox="0 0 880 372" role="img" aria-labelledby="sk-hero-static-title sk-hero-static-desc">
-  <title id="sk-hero-static-title">Soham Kamble</title>
-  <desc id="sk-hero-static-desc">Backend Developer, Python Developer, Django Developer, Aspiring AI Engineer</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract developer artwork</title>
+  <desc id="desc">Minimal dark composition with a flowing luminous blue and violet line, subtle grid and precise geometric details. No text.</desc>
   <defs>
-    <linearGradient id="sk-hero-static-base" x2="1" y2="1" gradientUnits="objectBoundingBox">
-      <stop stop-color="#10070C"/>
-      <stop offset="1" stop-color="#190B12"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#090E19"/><stop offset=".55" stop-color="#0C1323"/><stop offset="1" stop-color="#101020"/>
     </linearGradient>
-    <radialGradient id="sk-hero-static-halo" cx="78%" cy="43%" r="62%">
-      <stop stop-color="#701A3D" stop-opacity=".78"/>
-      <stop offset=".56" stop-color="#451126" stop-opacity=".48"/>
-      <stop offset="1" stop-color="#451126" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="sk-hero-static-fade">
-      <stop offset=".26" stop-color="black"/>
-      <stop offset="1" stop-color="white"/>
+    <linearGradient id="stream" x1="0" y1="0" x2="1" y2=".4">
+      <stop stop-color="#2DD4BF" stop-opacity=".04"/>
+      <stop offset=".30" stop-color="#48CFF1" stop-opacity=".85"/>
+      <stop offset=".64" stop-color="#8E90FF"/>
+      <stop offset=".88" stop-color="#C084FC" stop-opacity=".94"/>
+      <stop offset="1" stop-color="#C084FC" stop-opacity=".08"/>
     </linearGradient>
-    <mask id="sk-hero-static-mask" maskUnits="userSpaceOnUse" x="0" y="0" width="880" height="372">
-      <rect width="880" height="372" fill="url(#sk-hero-static-fade)"/>
-    </mask>
-    <pattern id="sk-hero-static-grid" width="26" height="26" patternUnits="userSpaceOnUse">
-      <path d="M26 0H0V26" fill="none" stroke="#C77B9B" stroke-opacity=".23"/>
+    <radialGradient id="ambient"><stop stop-color="#6A65D8" stop-opacity=".23"/><stop offset="1" stop-color="#6A65D8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A7B9D9" stroke-width=".6" stroke-opacity=".07" fill="none"/>
     </pattern>
-    <linearGradient id="sk-hero-static-rule">
-      <stop stop-color="#F8F0F3"/>
-      <stop offset=".4" stop-color="#C77B9B"/>
-      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="sk-hero-static-glow" x="-.08" width="1.16" y="-3" height="7">
-      <feGaussianBlur stdDeviation="3"/>
-    </filter>
-    <clipPath id="sk-hero-static-edge">
-      <rect width="880" height="372" rx="22"/>
-    </clipPath>
+    <filter id="glow" x="-40%" y="-100%" width="180%" height="300%"><feGaussianBlur stdDeviation="10"/></filter>
+    <clipPath id="clip"><rect width="880" height="300" rx="18"/></clipPath>
   </defs>
-  <g clip-path="url(#sk-hero-static-edge)">
-    <rect width="880" height="372" fill="url(#sk-hero-static-base)"/>
-    <rect width="880" height="372" fill="url(#sk-hero-static-halo)"/>
-    <rect width="880" height="372" fill="url(#sk-hero-static-grid)" mask="url(#sk-hero-static-mask)"/>
-    <g transform="translate(721 181)" fill="none" stroke="#C77B9B">
-      <circle r="116" opacity=".21" stroke-dasharray="2 8"/>
-      <circle r="85" opacity=".35"/>
-      <circle r="53" opacity=".24"/>
-      <path d="M-132 0H132M0-132V132" opacity=".22"/>
-      <ellipse rx="137" ry="41" transform="rotate(-34)" opacity=".47"/>
-      <path d="M0-85a85 85 0 1 1 0 170a85 85 0 1 1 0-170" pathLength="100" stroke="#E5B5C7" stroke-width="2" stroke-linecap="round" stroke-dasharray="13 87" stroke-dashoffset="-8">
-      </path>
-      <circle r="6" fill="#E5B5C7" stroke="none"/>
-      <circle cx="101" cy="-66" r="3" fill="#F8F0F3" stroke="none"/>
+  <g clip-path="url(#clip)">
+    <rect width="880" height="300" fill="url(#background)"/>
+    <rect width="880" height="300" fill="url(#grid)"/>
+    <ellipse cx="468" cy="160" rx="320" ry="210" fill="url(#ambient)"/>
+    <g stroke="#C5D2E8" stroke-opacity=".14" stroke-width=".8" fill="none">
+      <path d="M40 43H840M40 257H840"/>
+      <path d="M40 43V257M840 43V257"/>
+      <path d="M64 150H816" stroke-dasharray="2 10" opacity=".5"/>
+      <circle cx="440" cy="150" r="96" opacity=".44"/>
+      <circle cx="440" cy="150" r="125" opacity=".22"/>
     </g>
-    <path d="M42 69V42h27M811 330h27v-27" fill="none" stroke="#C77B9B" stroke-opacity=".7"/>
-    <text x="63" y="162" fill="#F8F0F3" font-family="Georgia, 'Times New Roman', serif" font-size="91" textLength="572" lengthAdjust="spacingAndGlyphs">Soham Kamble</text>
-    <rect x="66" y="185" width="541" height="3" rx="1.5" fill="url(#sk-hero-static-rule)" filter="url(#sk-hero-static-glow)"/>
-    <rect x="66" y="185" width="541" height="2" rx="1" fill="url(#sk-hero-static-rule)"/>
-    <g fill="#E5B5C7" font-family="system-ui, sans-serif" font-size="29">
-      <text x="66" y="239">Backend Developer · Python Developer</text>
-      <text x="66" y="280">Django Developer · Aspiring AI Engineer</text>
+    <g fill="none" stroke-linecap="round">
+      <g transform="translate(0 0)">
+        <path d="M-44 206C126 206 178 89 306 111S490 225 604 149S786 75 924 96" stroke="url(#stream)" stroke-width="19" opacity=".45" filter="url(#glow)"/>
+        <path d="M-44 206C126 206 178 89 306 111S490 225 604 149S786 75 924 96" stroke="url(#stream)" stroke-width="2.8"/>
+        <path d="M-44 218C126 218 178 101 306 123S490 237 604 161S786 87 924 108" stroke="url(#stream)" stroke-width=".85" opacity=".30"/>
+        <path d="M-44 194C126 194 178 77 306 99S490 213 604 137S786 63 924 84" stroke="url(#stream)" stroke-width=".85" opacity=".22"/>
+      </g>
     </g>
+    <g fill="#B8D8FF">
+      <circle cx="306" cy="111" r="3.1"/>
+      <circle cx="604" cy="149" r="3.1"/>
+      <circle cx="306" cy="111" r="9" fill="none" stroke="#7DE5F4" stroke-opacity=".22"/>
+      <circle cx="604" cy="149" r="9" fill="none" stroke="#B69CFD" stroke-opacity=".24"/>
+    </g>
+    <g stroke="#B5C6E4" fill="none" stroke-width="1">
+      <path d="M57 61h15M57 61v15M808 239h15v-15" opacity=".52"/>
+      <path d="M424 150h32M440 134v32" opacity=".17"/>
+    </g>
+    <g fill="#C3D0F3" opacity=".45"><circle cx="71" cy="241" r="2"/><circle cx="809" cy="59" r="2"/></g>
   </g>
-  <rect x=".5" y=".5" width="879" height="371" rx="22" fill="none" stroke="#701A3D"/>
+  <rect x=".5" y=".5" width="879" height="299" rx="18" stroke="#8998CB" stroke-opacity=".18" fill="none"/>
 </svg>
